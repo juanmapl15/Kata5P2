@@ -1,7 +1,7 @@
 
-package kata4.view;
+package kata5P2.view;
 
-import kata4.model.Mail;
+import kata5P2.model.Mail;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
